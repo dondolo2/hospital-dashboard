@@ -1,0 +1,9 @@
+C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/hospital-dashboard.dir
+C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/hospital-dashboard_autogen_timestamp_deps.dir
+C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/hospital-dashboard_autogen.dir

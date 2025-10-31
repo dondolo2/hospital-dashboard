@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8618677ba16ecef032d0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hospital-dashboard",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hospital-dashboard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hospital-dashboard-Debug-06e24e108cc7b82deb4c.json",
+					"name" : "hospital-dashboard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hospital-dashboard_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hospital-dashboard_autogen-Debug-9e9fad17a1aa23c524de.json",
+					"name" : "hospital-dashboard_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hospital-dashboard_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hospital-dashboard_autogen_timestamp_deps-Debug-8c14dbb5ffee0c862b04.json",
+					"name" : "hospital-dashboard_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt_Projects/hospital-dashboard/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt_Projects/hospital-dashboard"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
